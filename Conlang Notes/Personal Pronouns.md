@@ -14,3 +14,4 @@ Used like personal pronouns in other languages
 Examples:
 - ya loves te = I love you
 - ya loves myn amec = I love my friend
+

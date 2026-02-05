@@ -9,6 +9,6 @@ Each case and gender / number combination has an associated morpheme which gets 
 
 | Case            | Animate | Inanimate | Plural |
 | --------------- | ------- | --------- | ------ |
-| **Nominative**  | -r      | -s        | -e     |
-| **Accusative**  | -m      | -s        | -e     |
-| **Disjunctive** | -y      | -s        | -e     |
+| **Nominative**  | -r      | -s        | -i     |
+| **Accusative**  | -m      | -s        | -i     |
+| **Disjunctive** | -y      | -s        | -i     |

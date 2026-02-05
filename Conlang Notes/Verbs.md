@@ -1,0 +1,74 @@
+
+## Morphology
+
+### Base Structure
+
+Verbs have the following basic morphological structure.
+
+stem + theme vowel (thematic only) + subjunctive marker (subjunctive only) + tense marker (not in timeless verbs) + gender marker
+
+#### Theme Vowel
+
+Like in other principle parts, the theme vowel is the vowel that glues the stem of a thematic verb to the rest of its endings.  The theme vowel depends on the tense of the verb.
+
+| Present | Past | Future |
+| ------- | ---- | ------ |
+| e       | o    | a      |
+
+#### Subjunctive Marker
+
+The subjunctive marker indicates that a verb is in the subjunctive.  It takes the form below depending on the conjugation class.
+
+| Thematic | Hard Athematic | Soft Athematic |
+| -------- | -------------- | -------------- |
+| i        | i              | e              |
+
+For thematic verbs, the subjunctive marker merges with the theme vowel for form a diphthong.  That results in the combinations below.
+
+| Present | Past | Future |
+| ------- | ---- | ------ |
+| ei      | oi   | ai     |
+
+#### Tense Marker
+
+The tense marker indicates the tense of the verb, whether past, present, or future.  The forms they take also depend on the type of syllable that comes before them.  The basic morphological markers for each tense are below.
+
+| Present | Past    | Future |
+| ------- | ------- | ------ |
+| t       | u,v,z,o | ss,r   |
+
+The present and past tense markers are athematic for the purposes of adding the gender markers.  Future markers are thematic.
+
+#### Gender Marker
+
+The gender markers are the standard gender agreement markers.
+
+|               | Animate | Inanimate | Plural |
+| ------------- | ------- | --------- | ------ |
+| **Thematic**  | e       | o         | en     |
+| **Athematic** | -       | -         | a      |
+These markers interact highly with the tense markers.  In the case of the present tense marker, this includes turning *t* into *s* for animate gender, and turning *ta* into *nt* when placed after soft syllables (thematic and soft-athematic conjugation indicative forms, all subjunctive forms).  The tables below show the interactions.
+
+| *Present*               | Animate | Inanimate | Plural |
+| ----------------------- | ------- | --------- | ------ |
+| **After Soft Syllable** | s       | t         | nt     |
+| **After Hard Syllable** | s       | t         | ta     |
+
+| *Past*                          | Singular | Plural |
+| ------------------------------- | -------- | ------ |
+| **After Super-Soft Syllable**   | u        | un     |
+| **After Regular-Soft Syllable** | z        | va     |
+| **After Hard Syllable**         | o        | ua     |
+
+| *Future*                | Animate | Inanimate | Plural |
+| ----------------------- | ------- | --------- | ------ |
+| **After Soft Syllable** | sse     | sso       | ssen   |
+| **After Hard Syllable** | re      | ro        | ren    |
+
+### Conjugation
+
+Verbs fall into the following classes and subclasses
+- Thematic, which have a theme vowel gluing the stem of the verb to the rest of the ending
+- Athematic, which don't have this theme vowel
+	- Hard, which end in a hard syllable
+	- Soft, which end in an soft syllable

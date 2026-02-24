@@ -17,6 +17,7 @@ Steps
 	- auxilia > ōxilia
 	- moenia > mēnia
 4. Change *c* and *g* to *z* before *i* and *e*.
+	- cēlōs > zēlōs
 	- ducēs > duzēs
 	- genua > zenua
 5. Intervocalic *b* becomes *v*
@@ -35,11 +36,13 @@ Steps
 			- ōxilia > ōxili
 			- puerōs > puer
 			- agrōs > agr
+			- zēlōs > zēl
 		- 3rd Declension: remove *-ēs* or *-a* or *-ia*
 			- duzēs > duz
 			- nōmina > nōmin
 			- turrēs > turr
 			- animālia > animāl
+			- mēnia > mēn
 		- 4th Declension: remove *-ūs* or *-ua*
 			- portūs > port
 			- zenua > zen
@@ -53,3 +56,6 @@ Steps
 	- virid > vird
 	- fābul > fābl > fail
 	- fēnucul > fēnucl > fēnoul
+	- puer > pur
+	- domin > domn > doun
+	- nōmin > nōmn > noun

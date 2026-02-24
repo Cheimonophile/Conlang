@@ -6,17 +6,24 @@ This document describes how words are borrowed from other languages, and the pho
 This strategy is for borrowing words that are present in all or many romance languages with roughly the same meaning, where the romance language forms are more or less direct evolutionary descendants of their latin forms.  The idea of this strategy is to give the language a romance language vibe by basically mirroring the evolution of modern romance vocabulary from latin with some custom rules.
 
 Steps
-1. Start with the latin word that is the etymological origin of the romance word.
+1. Start with the latin word that is the etymological origin of the romance word.  Stress starts on the syllable where it exists in latin, and stays on the same syllable throughout.
 2. Pick a base morphological form of the word.
 	- Verbs: first person singular active indicative
 		- first person singular passive indicative for deponent verbs
 	- Nouns: accusative plural
-3. Change *c* and *g* to *z* before *i* and *e*.
+	- Adjectives: neuter accusative plural
+3. Latin diphthongs become monophthongs, but stay long.  ae > ē, au > ō, oe > ē
+	- caelōs > cēlōs
+	- auxilia > ōxilia
+	- moenia > mēnia
+4. Change *c* and *g* to *z* before *i* and *e*.
 	- ducēs > duzēs
 	- genua > zenua
-4. Remove the ending and derive a stem, based on the following rules
+5. Intervocalic *b* becomes *v*
+	- gubernō > guvernō
+6. Remove the ending and derive a stem, based on the following rules
 	- Verbs: remove the *-ō* for regular verbs and *-or* for deponent verbs
-		- gubernō > gubern
+		- guvernō > guvern
 		- dominor > domin
 	- Nouns:
 		- 1st Declension: remove *-ās*
@@ -25,7 +32,7 @@ Steps
 			- dominōs > domin
 			- bella > bell
 			- fīliōs > fīli
-			- auxilia > auxili
+			- ōxilia > ōxili
 			- puerōs > puer
 			- agrōs > agr
 		- 3rd Declension: remove *-ēs* or *-a* or *-ia*
@@ -36,10 +43,13 @@ Steps
 		- 4th Declension: remove *-ūs* or *-ua*
 			- portūs > port
 			- zenua > zen
-		- 5th Declension: remove *-ēī* or *-ī*
-			- diēī > di
-			- reī > re
+		- 5th Declension: remove *-ēs* or replace with *-e* if the word is monosyllabic.
+			- diēs > di
+			- rēs > re
 	- Adjectives: Follow the same pattern as the nouns
-
-
-Example Table
+	- Others: no changes, since other parts of speech don't have inflectional endings
+7. Unstressed syllables with a coda immediately after stressed syllables are lost.  If the resulting consonant cluster violates the sonority hierarchy, there is another step where the first consonant in the new cluster is deleted and the vowel before is turned into a diphthong: u/ū/o/ō > ou, a/ā > ai, e/ē/i/ī > ei.
+	- vetul > vetl > veil
+	- virid > vird
+	- fābul > fābl > fail
+	- fēnucul > fēnucl > fēnoul

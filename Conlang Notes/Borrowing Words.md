@@ -34,7 +34,6 @@ Steps
 			- bella > bell
 			- fīliōs > fīli
 			- ōxilia > ōxili
-			- puerōs > puer
 			- agrōs > agr
 			- zēlōs > zēl
 		- 3rd Declension: remove *-ēs* or *-a* or *-ia*
@@ -57,6 +56,5 @@ Steps
 	- virid > vird
 	- fābul > fābl > fail
 	- fēnucul > fēnucl > fēnoul
-	- puer > pur
 	- domin > domn > doun (noun, from *dominus*)
 	- nōmin > nōmn > noun

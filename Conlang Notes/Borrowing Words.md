@@ -52,7 +52,7 @@ Steps
 	- Others: no changes, since other parts of speech don't have inflectional endings
 7. For all verbs, stress moves to the final syllable.
 8. Unstressed syllables with a coda immediately after stressed syllables are lost.  If the resulting consonant cluster violates the sonority hierarchy, there is another step where the first consonant in the new cluster is deleted and the vowel before is turned into a diphthong: u/ū/o/ō > ou, a/ā > ai, e/ē/i/ī > ei.  Since verbs already have stress on the final syllable after step 7, there is no syllable after the stressed syllable, so this step does not apply to verbs.
-	- vetul > vetl > veil
+	- vetul > vetl > [[veil]]
 	- virid > vird
 	- fābul > fābl > fail
 	- fēnucul > fēnucl > fēnoul

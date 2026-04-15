@@ -1,5 +1,4 @@
 
-# Adjective
 
 Etymology
 - vetulus (Romance)

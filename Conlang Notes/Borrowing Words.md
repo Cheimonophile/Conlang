@@ -22,7 +22,10 @@ Steps
 	- genua > zenua
 5. Intervocalic *b* becomes *v*
 	- gubernō > guvernō
-6. Remove the ending and derive a stem, based on the following rules
+6. Latin *qu* becomes *cu*.
+	- aquās > acuās
+	- equōs > ecuōs
+7. Remove the ending and derive a stem, based on the following rules
 	- Verbs: remove the *-ō* for regular verbs and *-or* for deponent verbs
 		- guvernō > guvern
 		- dominor > domin
@@ -50,8 +53,8 @@ Steps
 			- rēs > re
 	- Adjectives: Follow the same pattern as the nouns
 	- Others: no changes, since other parts of speech don't have inflectional endings
-7. For all verbs, stress moves to the final syllable.
-8. Unstressed syllables with a coda immediately after stressed syllables are lost.  If the resulting consonant cluster violates the sonority hierarchy, there is another step where the first consonant in the new cluster is deleted and the vowel before is turned into a diphthong: u/ū/o/ō > ou, a/ā > ai, e/ē/i/ī > ei.  Since verbs already have stress on the final syllable after step 7, there is no syllable after the stressed syllable, so this step does not apply to verbs.
+8. For all verbs, stress moves to the final syllable.
+9. Unstressed syllables with a coda immediately after stressed syllables are lost.  If the resulting consonant cluster violates the sonority hierarchy, there is another step where the first consonant in the new cluster is deleted and the vowel before is turned into a diphthong: u/ū/o/ō > ou, a/ā > ai, e/ē/i/ī > ei.  Since verbs already have stress on the final syllable after step 8, there is no syllable after the stressed syllable, so this step does not apply to verbs.
 	- vetul > vetl > [[veil (adjective)]]
 	- virid > vird
 	- fābul > fābl > fail

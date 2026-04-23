@@ -67,3 +67,18 @@ Steps
 10. Short *e* and *i* before a vowel become *y*; short *o* and *u* before a vowel become *w*.
 	- acuil > acwil
 	- viātōr > vyātōr
+
+Examples
+
+
+| 1   | caelōs | auxilia | moenia | ducēs | genua | gubernō | aquās | equōs | aquilās | dominor | mēnsās | dominōs | bella | fīliōs | agrōs | nōmina | turrēs | animālia | portūs | diēs | rēs | viātōrēs | vetula | viridia | fābulās | fēnucula |
+| --- | ------ | ------- | ------ | ----- | ----- | ------- | ----- | ----- | ------- | ------- | ------ | ------- | ----- | ------ | ----- | ------ | ------ | -------- | ------ | ---- | --- | -------- | ------ | ------- | ------- | -------- |
+| 2   | -      | -       | -      | -     | -     | -       | -     | -     | -       | -       | -      | -       | -     | -      | -     | -      | -      | -        | -      | -    | -   | -        | -      | -       | -       | -        |
+| 3   | cēlōs  | ōxilia  | mēnia  | -     | -     | -       | -     | -     | -       | -       | -      | -       | -     | -      | -     | -      | -      | -        | -      | -    | -   | -        | -      | -       | -       | -        |
+| 4   | zēlōs  | -       | -      | duzēs | zenua | -       | -     | -     | -       | -       | -      | -       | -     | -      | -     | -      | -      | -        | -      | -    | -   | -        | -      | -       | -       | -        |
+| 5   | -      | -       | -      | -     | -     | guvernō | -     | -     | -       | -       | -      | -       | -     | -      | -     | -      | -      | -        | -      | -    | -   | -        | -      | -       | -       | -        |
+| 6   | -      | -       | -      | -     | -     | -       | acuās | ecuōs | acuilās | -       | -      | -       | -     | -      | -     | -      | -      | -        | -      | -    | -   | -        | -      | -       | -       | -        |
+| 7   | zēl    | ōxili   | mēn    | duz   | zen   | guvern  | acu   | ecu   | acuil   | domin   | mēns   | domin   | bell  | fīli   | agr   | nōmin  | turr   | animāl   | port   | di   | re  | viātōr   | vetul  | virid   | fābul   | fēnucul  |
+| 8   | -      | -       | -      | -     | -     | -       | -     | -     | -       | -       | -      | -       | -     | -      | -     | -      | -      | -        | -      | -    | -   | -        | -      | -       | -       | -        |
+| 9   | -      | -       | -      | -     | -     | -       | -     | -     | -       | -       | -      | domn    | -     | -      | -     | nōmn   | -      | -        | -      | -    | -   | -        | vetl   | vird    | fābl    | fēnucl   |
+| 10  | -      | -       | -      | -     | -     | -       | -     | -     | acwil   | -       | -      | -       | -     | -      | -     | -      | -      | -        | -      | -    | -   | vyātōr   | -      | -       | -       | -        |

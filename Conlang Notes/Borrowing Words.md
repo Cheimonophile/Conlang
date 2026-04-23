@@ -22,6 +22,7 @@ Steps
 	- genua > zenua
 5. Intervocalic *b* becomes *v*
 	- gubernō > guvernō
+	- fābulās > fāvulās
 6. Latin *qu* becomes *cu*.
 	- aquās > acuās
 	- equōs > ecuōs
@@ -60,7 +61,7 @@ Steps
 9. Unstressed syllables with a coda immediately after stressed syllables are lost.  Since verbs already have stress on the final syllable after step 8, there is no syllable after the stressed syllable, so this step does not apply to verbs.
 	- vetul > [[vetl (adjective)]]
 	- virid > vird
-	- fābul > fābl
+	- fāvul > fāvl
 	- fēnucul > fēnucl
 	- domin > domn (noun, from *dominus*)
 	- nōmin > nōmn
@@ -76,9 +77,9 @@ Examples
 | 2   | -      | -       | -      | -     | -     | -       | -     | -     | -       | -       | -      | -       | -     | -      | -     | -      | -      | -        | -      | -    | -   | -        | -      | -       | -       | -        |
 | 3   | cēlōs  | ōxilia  | mēnia  | -     | -     | -       | -     | -     | -       | -       | -      | -       | -     | -      | -     | -      | -      | -        | -      | -    | -   | -        | -      | -       | -       | -        |
 | 4   | zēlōs  | -       | -      | duzēs | zenua | -       | -     | -     | -       | -       | -      | -       | -     | -      | -     | -      | -      | -        | -      | -    | -   | -        | -      | -       | -       | -        |
-| 5   | -      | -       | -      | -     | -     | guvernō | -     | -     | -       | -       | -      | -       | -     | -      | -     | -      | -      | -        | -      | -    | -   | -        | -      | -       | -       | -        |
+| 5   | -      | -       | -      | -     | -     | guvernō | -     | -     | -       | -       | -      | -       | -     | -      | -     | -      | -      | -        | -      | -    | -   | -        | -      | -       | fāvulās | -        |
 | 6   | -      | -       | -      | -     | -     | -       | acuās | ecuōs | acuilās | -       | -      | -       | -     | -      | -     | -      | -      | -        | -      | -    | -   | -        | -      | -       | -       | -        |
-| 7   | zēl    | ōxili   | mēn    | duz   | zen   | guvern  | acu   | ecu   | acuil   | domin   | mēns   | domin   | bell  | fīli   | agr   | nōmin  | turr   | animāl   | port   | di   | re  | viātōr   | vetul  | virid   | fābul   | fēnucul  |
+| 7   | zēl    | ōxili   | mēn    | duz   | zen   | guvern  | acu   | ecu   | acuil   | domin   | mēns   | domin   | bell  | fīli   | agr   | nōmin  | turr   | animāl   | port   | di   | re  | viātōr   | vetul  | virid   | fāvul   | fēnucul  |
 | 8   | -      | -       | -      | -     | -     | -       | -     | -     | -       | -       | -      | -       | -     | -      | -     | -      | -      | -        | -      | -    | -   | -        | -      | -       | -       | -        |
-| 9   | -      | -       | -      | -     | -     | -       | -     | -     | -       | -       | -      | domn    | -     | -      | -     | nōmn   | -      | -        | -      | -    | -   | -        | vetl   | vird    | fābl    | fēnucl   |
+| 9   | -      | -       | -      | -     | -     | -       | -     | -     | -       | -       | -      | domn    | -     | -      | -     | nōmn   | -      | -        | -      | -    | -   | -        | vetl   | vird    | fāvl    | fēnucl   |
 | 10  | -      | -       | -      | -     | -     | -       | -     | -     | acwil   | -       | -      | -       | -     | -      | -     | -      | -      | -        | -      | -    | -   | vyātōr   | -      | -       | -       | -        |

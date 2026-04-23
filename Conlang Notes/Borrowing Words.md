@@ -25,6 +25,7 @@ Steps
 6. Latin *qu* becomes *cu*.
 	- aquās > acuās
 	- equōs > ecuōs
+	- aquilās > acuilās
 7. Remove the ending and derive a stem, based on the following rules
 	- Verbs: remove the *-ō* for regular verbs and *-or* for deponent verbs
 		- guvernō > guvern
@@ -32,6 +33,7 @@ Steps
 	- Nouns:
 		- 1st Declension: remove *-ās*
 			- mēnsās > mēns
+			- acuilās > acuil
 		- 2nd Declension: remove *-ōs* or *-a*
 			- dominōs > domin
 			- bella > bell
@@ -45,6 +47,7 @@ Steps
 			- turrēs > turr
 			- animālia > animāl
 			- mēnia > mēn
+			- viātōrēs > viātōr
 		- 4th Declension: remove *-ūs* or *-ua*
 			- portūs > port
 			- zenua > zen
@@ -61,3 +64,6 @@ Steps
 	- fēnucul > fēnucl
 	- domin > domn (noun, from *dominus*)
 	- nōmin > nōmn
+10. Short *e* and *i* before a vowel become *y*; short *o* and *u* before a vowel become *w*.
+	- acuil > acwil
+	- viātōr > vyātōr

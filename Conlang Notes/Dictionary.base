@@ -8,5 +8,7 @@ views:
       - file.name
       - POS
       - file.mtime
+      - Translations
+    sort: []
     columnSize:
       file.mtime: 200

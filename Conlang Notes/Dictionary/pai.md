@@ -1,5 +1,7 @@
 ---
 POS: Noun
+Translations:
+  - pie
 ---
 
 

@@ -1,5 +1,7 @@
 ---
 POS: Adjective
+Translations:
+  - old
 ---
 
 

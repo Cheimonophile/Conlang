@@ -1,5 +1,7 @@
 ---
 POS: Verb
+Translations:
+  - to be
 ---
 
 Definitions

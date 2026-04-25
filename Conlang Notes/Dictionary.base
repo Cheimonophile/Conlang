@@ -7,8 +7,9 @@ views:
     order:
       - file.name
       - POS
-      - file.mtime
       - Translations
+      - file.mtime
     sort: []
     columnSize:
+      note.Translations: 350
       file.mtime: 200

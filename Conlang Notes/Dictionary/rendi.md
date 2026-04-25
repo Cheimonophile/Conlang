@@ -1,3 +1,6 @@
+---
+POS: Verb
+---
 
 Definition
 - to make X be Y

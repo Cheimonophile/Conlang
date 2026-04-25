@@ -1,0 +1,12 @@
+filters:
+  and:
+    - file.inFolder("Dictionary")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - POS
+      - file.mtime
+    columnSize:
+      file.mtime: 200

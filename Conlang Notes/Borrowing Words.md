@@ -59,7 +59,7 @@ Steps
 	- Others: no changes, since other parts of speech don't have inflectional endings
 8. For all verbs, stress moves to the final syllable.
 9. Unstressed syllables with a coda immediately after stressed syllables are lost.  Since verbs already have stress on the final syllable after step 8, there is no syllable after the stressed syllable, so this step does not apply to verbs.
-	- vetul > [[vetl (adjective)]]
+	- vetul > [[vetl]]
 	- virid > vird
 	- fāvul > fāvl
 	- fēnucul > fēnucl

@@ -1,3 +1,6 @@
+---
+POS: Noun
+---
 
 
 Definitions

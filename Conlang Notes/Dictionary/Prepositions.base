@@ -1,0 +1,13 @@
+filters:
+  and:
+    - file.inFolder("Dictionary/Prepositions")
+    - file.ext == "md"
+views:
+  - type: table
+    name: Prepositions
+    order:
+      - file.name
+      - Translations
+    sort: []
+    columnSize:
+      note.Translations: 300

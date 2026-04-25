@@ -1,5 +1,4 @@
 ---
-POS: Noun
 Translations:
   - milk
 ---

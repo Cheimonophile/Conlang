@@ -1,15 +1,22 @@
 filters:
   and:
     - file.inFolder("Dictionary")
+    - file.ext == "md"
+formulas:
+  POS: file.folder.replace("Dictionary/", "")
+properties:
+  formula.POS:
+    displayName: Part of Speech
 views:
   - type: table
     name: Table
     order:
       - file.name
-      - POS
+      - formula.POS
       - Translations
       - file.mtime
     sort: []
     columnSize:
+      formula.POS: 130
       note.Translations: 350
       file.mtime: 200

@@ -1,0 +1,15 @@
+filters:
+  and:
+    - file.inFolder("Dictionary/Nouns")
+    - file.ext == "md"
+views:
+  - type: table
+    name: Nouns
+    order:
+      - file.name
+      - Translations
+      - Gender
+      - Declension
+    sort: []
+    columnSize:
+      note.Translations: 300

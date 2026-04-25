@@ -1,9 +1,3 @@
----
-POS: Preposition
----
-
-
-
 Definition
 - on
 	- positioned at the upper surface of

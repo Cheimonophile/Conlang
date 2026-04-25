@@ -1,5 +1,4 @@
 ---
-POS: Verb
 Translations:
   - to be
 ---

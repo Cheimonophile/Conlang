@@ -1,0 +1,18 @@
+filters:
+  and:
+    - file.inFolder("Dictionary/Verbs")
+    - file.ext == "md"
+views:
+  - type: table
+    name: Verbs
+    order:
+      - file.name
+      - Translations
+      - Transitivity
+      - Aspect
+      - Present
+      - Past
+      - Future
+    sort: []
+    columnSize:
+      note.Translations: 300

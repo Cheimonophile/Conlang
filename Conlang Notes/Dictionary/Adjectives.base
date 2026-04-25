@@ -1,0 +1,13 @@
+filters:
+  and:
+    - file.inFolder("Dictionary/Adjectives")
+    - file.ext == "md"
+views:
+  - type: table
+    name: Adjectives
+    order:
+      - file.name
+      - Translations
+    sort: []
+    columnSize:
+      note.Translations: 300

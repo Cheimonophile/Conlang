@@ -1,7 +1,3 @@
----
-POS: Verb
----
-
 Definition
 - to make X be Y
 - to render X Y

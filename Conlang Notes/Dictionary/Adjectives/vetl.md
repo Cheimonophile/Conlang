@@ -1,5 +1,4 @@
 ---
-POS: Adjective
 Translations:
   - old
 ---

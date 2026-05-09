@@ -1,0 +1,6 @@
+---
+Translations:
+  - tree
+Gender:
+Declension:
+---

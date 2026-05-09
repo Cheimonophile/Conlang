@@ -8,8 +8,8 @@ views:
     order:
       - file.name
       - Translations
-      - Gender
-      - Declension
-    sort: []
+    sort:
+      - property: Declension
+        direction: ASC
     columnSize:
       note.Translations: 300

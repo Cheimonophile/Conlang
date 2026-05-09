@@ -1,0 +1,6 @@
+---
+Translations:
+  - cherry
+Gender:
+Declension:
+---

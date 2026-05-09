@@ -1,0 +1,6 @@
+---
+Translations:
+  - wood
+Gender:
+Declension:
+---

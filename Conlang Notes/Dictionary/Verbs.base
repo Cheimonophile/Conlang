@@ -10,9 +10,6 @@ views:
       - Translations
       - Transitivity
       - Aspect
-      - Present
-      - Past
-      - Future
     sort: []
     columnSize:
       note.Translations: 300

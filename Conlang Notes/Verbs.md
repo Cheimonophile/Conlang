@@ -9,7 +9,7 @@ stem + theme vowel (thematic only) + subjunctive marker (subjunctive only) + ten
 
 #### Theme Vowel
 
-Like in other principle parts, the theme vowel is the vowel that glues the stem of a thematic verb to the rest of its endings.  The theme vowel depends on the tense of the verb.
+Like in other principal parts, the theme vowel is the vowel that glues the stem of a thematic verb to the rest of its endings.  The theme vowel depends on the tense of the verb.
 
 | Present | Past | Future |
 | ------- | ---- | ------ |
@@ -72,3 +72,58 @@ Verbs fall into the following classes and subclasses
 - Athematic, which don't have this theme vowel
 	- Hard, which end in a hard syllable
 	- Soft, which end in an soft syllable
+
+#### Thematic
+
+Regular, most common conjugation class.
+##### Non Finite Forms
+
+**Infinitive**: [dromai](dromai.md) (to run)
+**Present Participle**: dromant
+**Past Participle**: dromau
+**Imperative**: droma
+##### Indicative
+
+|             | Animate  | Inanimate | Plural    |
+| ----------- | -------- | --------- | --------- |
+| **Present** | dromes   | dromet    | droment   |
+| **Past**    | dromou   | dromou    | dromoun   |
+| **Future**  | dromasse | dromasso  | dromassen |
+#### Hard Athematic
+
+##### Non Finite Forms
+
+**Infinitive**: coti (to cook)
+**Present Participle**: cotient
+**Past Participle**: cotu
+**Imperative**: còt
+
+##### Indicative
+
+|             | Animate | Inanimate | Plural |
+| ----------- | ------- | --------- | ------ |
+| **Present** | cots    | cott      | cotta  |
+| **Past**    | coto    | coto      | cotua  |
+| **Future**  | cotre   | cotro     | cotren |
+
+#### Soft Athematic
+
+##### Non Finite Forms
+
+**Infinitive**: [leir](Dictionary/Verbs/leir)
+**Present Participle**: leiyent
+**Past Participle**: leil
+**Imperative**: leì
+
+##### Indicative
+
+|             | Animate | Inanimate | Plural  |
+| ----------- | ------- | --------- | ------- |
+| **Present** | leis    | leit      | leint   |
+| **Past**    | leiz    | leiz      | leiva   |
+| **Future**  | leisse  | leisso    | leissen |
+#### Consonant Soft Athematic
+
+Used for a small number of "irregular" verbs that have a stem with a consonant coda, but follow the soft athematic conjugation.  In certain forms, the consonants are removed and replaced with acute accent over the preceding vowel to make room for the ending.
+
+TODO 

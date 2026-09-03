@@ -1,3 +1,6 @@
+---
+Declension: Thematic
+---
 
 
 Translations

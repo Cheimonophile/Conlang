@@ -117,11 +117,11 @@ Regular, most common conjugation class.
 
 ##### Indicative
 
-|             | Animate | Inanimate | Plural  |
-| ----------- | ------- | --------- | ------- |
-| **Present** | leis    | leit      | leint   |
-| **Past**    | leiz    | leiz      | leiva   |
-| **Future**  | leisse  | leisso    | leissen |
+|             | Animate | Inanimate | Plural |
+| ----------- | ------- | --------- | ------ |
+| **Present** | leis    | leit      | leint  |
+| **Past**    | leiz    | leiz      | leino  |
+| **Future**  | leire   | leiro     | leiren |
 #### Consonant Soft Athematic
 
 Used for a small number of "irregular" verbs that have a stem with a consonant coda, but follow the soft athematic conjugation.  In certain forms, the consonants are removed and replaced with acute accent over the preceding vowel to make room for the ending.
@@ -145,4 +145,3 @@ TODO
 | **Present** | guvernaus  | guvernaut  | guvernaunt  |
 | **Past**    | guvernauz  | guvernauz  | guvernalua  |
 | **Future**  | guvernaure | guvernauro | guvernauren |
-

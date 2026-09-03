@@ -2,7 +2,7 @@
 Translations:
   - to govern
 Transitivity: Transitive
-Aspect: Perfective
+Aspect: Imperfective
 ---
 
 Definitions

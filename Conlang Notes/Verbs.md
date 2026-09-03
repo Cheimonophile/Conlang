@@ -73,12 +73,12 @@ Verbs fall into the following classes and subclasses
 	- Hard, which end in a hard syllable
 	- Soft, which end in an soft syllable
 
-#### Thematic (guvernai)
+#### Thematic ([guvernai](Dictionary/Verbs/guvernai.md))
 
 Regular, most common conjugation class.
 ##### Non-Finite Forms
 
-**Infinitive**: [guvernai](Dictionary/Verbs/guvernai.md) (to govern)
+**Infinitive**: guvernai (to govern)
 **Present Participle**: guvernant
 **Past Participle**: guvernau
 **Imperative**: guverna
@@ -89,7 +89,7 @@ Regular, most common conjugation class.
 | **Present** | guvernes   | guvernet   | guvernent   |
 | **Past**    | guvernou   | guvernou   | guvernoun   |
 | **Future**  | guvernasse | guvernasso | guvernassen |
-#### Hard Athematic (coti)
+#### Hard Athematic ([coti](Dictionary/Verbs/coti.md))
 
 ##### Non-Finite Forms
 
@@ -106,11 +106,11 @@ Regular, most common conjugation class.
 | **Past**    | coto    | coto      | cotua  |
 | **Future**  | cotre   | cotro     | cotren |
 
-#### Soft Athematic (leir)
+#### Soft Athematic ([leir](Dictionary/Verbs/leir.md))
 
 ##### Non-Finite Forms
 
-**Infinitive**: [leir](Dictionary/Verbs/leir)
+**Infinitive**: leir (to read)
 **Present Participle**: leiyent
 **Past Participle**: leiv
 **Imperative**: leì
@@ -129,11 +129,11 @@ Used for a small number of "irregular" verbs that have a stem with a consonant c
 TODO 
 
 
-#### Passive Thematic
+#### Passive Thematic ([guvernaur](Dictionary/Verbs/guvernai.md))
 
 ##### Non-Finite Forms
 
-**Infinitive**: guvernaur
+**Infinitive**: guvernaur (to be governed)
 **Present Participle**: guvernavient
 **Past Participle**: guvernalu
 **Imperative**: guvernàl

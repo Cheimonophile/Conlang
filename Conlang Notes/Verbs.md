@@ -73,25 +73,25 @@ Verbs fall into the following classes and subclasses
 	- Hard, which end in a hard syllable
 	- Soft, which end in an soft syllable
 
-#### Thematic
+#### Thematic (guvernai)
 
 Regular, most common conjugation class.
-##### Non Finite Forms
+##### Non-Finite Forms
 
-**Infinitive**: [dromai](dromai.md) (to run)
-**Present Participle**: dromant
-**Past Participle**: dromau
-**Imperative**: droma
+**Infinitive**: [guvernai](Dictionary/Verbs/guvernai.md) (to govern)
+**Present Participle**: guvernant
+**Past Participle**: guvernau
+**Imperative**: guverna
 ##### Indicative
 
-|             | Animate  | Inanimate | Plural    |
-| ----------- | -------- | --------- | --------- |
-| **Present** | dromes   | dromet    | droment   |
-| **Past**    | dromou   | dromou    | dromoun   |
-| **Future**  | dromasse | dromasso  | dromassen |
-#### Hard Athematic
+|             | Animate    | Inanimate  | Plural      |
+| ----------- | ---------- | ---------- | ----------- |
+| **Present** | guvernes   | guvernet   | guvernent   |
+| **Past**    | guvernou   | guvernou   | guvernoun   |
+| **Future**  | guvernasse | guvernasso | guvernassen |
+#### Hard Athematic (coti)
 
-##### Non Finite Forms
+##### Non-Finite Forms
 
 **Infinitive**: coti (to cook)
 **Present Participle**: cotient
@@ -106,13 +106,13 @@ Regular, most common conjugation class.
 | **Past**    | coto    | coto      | cotua  |
 | **Future**  | cotre   | cotro     | cotren |
 
-#### Soft Athematic
+#### Soft Athematic (leir)
 
-##### Non Finite Forms
+##### Non-Finite Forms
 
 **Infinitive**: [leir](Dictionary/Verbs/leir)
 **Present Participle**: leiyent
-**Past Participle**: leil
+**Past Participle**: leiv
 **Imperative**: leì
 
 ##### Indicative
@@ -127,3 +127,22 @@ Regular, most common conjugation class.
 Used for a small number of "irregular" verbs that have a stem with a consonant coda, but follow the soft athematic conjugation.  In certain forms, the consonants are removed and replaced with acute accent over the preceding vowel to make room for the ending.
 
 TODO 
+
+
+#### Passive Thematic
+
+##### Non-Finite Forms
+
+**Infinitive**: guvernaur
+**Present Participle**: guvernavient
+**Past Participle**: guvernalu
+**Imperative**: guvernàl
+
+##### Indicative
+
+|             | Animate    | Inanimate  | Plural      |
+| ----------- | ---------- | ---------- | ----------- |
+| **Present** | guvernaus  | guvernaut  | guvernaunt  |
+| **Past**    | guvernauz  | guvernauz  | guvernalua  |
+| **Future**  | guvernaure | guvernauro | guvernauren |
+

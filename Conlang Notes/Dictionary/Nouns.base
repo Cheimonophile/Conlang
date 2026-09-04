@@ -7,9 +7,10 @@ views:
     name: Nouns
     order:
       - file.name
+      - Declension
       - Translations
     sort:
-      - property: Declension
-        direction: ASC
+      - property: file.mtime
+        direction: DESC
     columnSize:
       note.Translations: 300

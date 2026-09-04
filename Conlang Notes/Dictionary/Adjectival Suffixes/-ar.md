@@ -17,3 +17,7 @@ Syncretism
 - [-ālis](https://en.wiktionary.org/wiki/-alis#Latin) (Latin)
 - [-āris](https://en.wiktionary.org/wiki/-aris#Latin) (Latin)
 - [-ēlis](https://en.wiktionary.org/wiki/-elis#Latin) (Latin)
+
+
+Notes
+- Individual entries are not required for words derived with this suffix, because it's productive and can be used automatically wherever the usage conditions are met.  An individual dictionary entry should only be used to clarify the definition when the adjective can also be used in a way that isn't directly derivable from above.  e.g. [coronar](Dictionary/Adjectives/coronar).

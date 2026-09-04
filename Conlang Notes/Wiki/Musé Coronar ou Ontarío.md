@@ -1,1 +1,1 @@
-yn Musé-Coronar-ou-Ontarío art an musé ou art; cultur <<<
+yn Musé-Coronar-ou-Ontarío art an musé ou art; cultur mondar et <<<

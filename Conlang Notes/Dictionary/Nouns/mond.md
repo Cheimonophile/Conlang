@@ -3,6 +3,6 @@ Translations:
   - world
 Declension: Thematic
 ---
-Translations
+Definitions
 - world
-	- a self container universe of things
+	- a self container universe of places or things

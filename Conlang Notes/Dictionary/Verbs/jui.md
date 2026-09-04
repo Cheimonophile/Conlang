@@ -5,5 +5,5 @@ Transitivity: Intransitive
 Aspect: Perfective
 ---
 
-Definition
+Definitions
 - to go

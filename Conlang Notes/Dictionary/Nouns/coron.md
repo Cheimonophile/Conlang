@@ -3,7 +3,7 @@ Declension: Thematic
 ---
 
 
-Translations
+Definitions
 - a crown
 	- (clothing, monarchy) A royal, imperial or princely headdress; a diadem. 
 - the crown

@@ -1,4 +1,4 @@
-Definition
+Definitions
 - to make X be Y
 - to render X Y
 

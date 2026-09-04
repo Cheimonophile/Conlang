@@ -3,7 +3,7 @@ Translations:
   - culture
 Declension: Thematic
 ---
-Translations
+Definitions
 - culture
 	- arts, customs and habits
 	- the beliefs, values, behavior and material objects that constitute a people's way of life

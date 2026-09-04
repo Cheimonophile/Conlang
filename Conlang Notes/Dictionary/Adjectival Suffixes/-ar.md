@@ -12,6 +12,7 @@ Usage
 - Productively for relational adjectives in cases where all the following are true:
 	- French would use it's relational suffix (e.g. *carte bancaire*)
 	- English would use the noun as an adjective (e.g. *bank card*)
+- Attributive only.  An *-ar* adjective modifies a noun directly and cannot stand as a predicate complement, just as English says *bank card* but not **the card is bank*.  A predicative relationship has to be expressed some other way, e.g. with a prepositional phrase built on the base noun.
 
 Syncretism
 - [-ālis](https://en.wiktionary.org/wiki/-alis#Latin) (Latin)

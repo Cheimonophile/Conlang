@@ -5,4 +5,4 @@ Declension: Thematic
 ---
 Definitions
 - world
-	- a self container universe of places or things
+	- a self contained universe of places or things

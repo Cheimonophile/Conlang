@@ -36,10 +36,23 @@ separated by a blank line, each followed by a bulleted list. Use these names:
 - **Definitions** — always this word, plural. Never "Definition" or
   "Translations". The gloss is a top-level bullet; individual senses are
   tab-indented sub-bullets beneath it.
-- **Etymology** — the word's source. Link Latin and Greek etyma to Wiktionary as
-  `[cultūra](https://en.wiktionary.org/wiki/cultura#Latin) (Latin)`. For words
-  derived inside the language, link the parts relatively:
+- **Etymology** — the word's source, written as plain text with the language in
+  parentheses: `cultūra (Latin)`. Don't add Wiktionary links in new entries.
+  Leave existing entries as they are; don't strip their links or reformat their
+  etymologies to match. For words derived inside
+  the language, link the parts relatively:
   `[coron](../Nouns/coron.md) + [-ar](../Adjectival%20Suffixes/-ar.md)`.
+  For a word modelled on a language family rather than on one etymon, the
+  top-level bullet is the family in parentheses, and the individual words that
+  inspired it go in tab-indented sub-bullets beneath it:
+
+  ```markdown
+  Etymology
+  - (Romance)
+  	- fournir (French)
+  	- fornir (Catalan)
+  	- fornire (Italian)
+  ```
 - **Properties**, **Usage**, **Syncretism**, **Examples**, **Notes** — as
   applicable.
 
@@ -59,7 +72,7 @@ Definitions
 	- the beliefs, values, behavior and material objects that constitute a people's way of life
 
 Etymology
-- [cultūra](https://en.wiktionary.org/wiki/cultura#Latin) (Latin)
+- cultūra (Latin)
 ```
 
 ## Coining new words

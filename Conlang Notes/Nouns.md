@@ -11,18 +11,17 @@ The hyphen is a lexical mark, not a phonological one.  It says that the expressi
 
 The hyphen distinguishes a term of art from the ordinary phrase it is built out of.
 
-- *history naturar* — history that happens to be natural
-- *[history-naturar](Dictionary/Nouns/history-naturar.md)* — natural history, the discipline
+TODO: example
 
-Without the hyphen, [natur](Dictionary/Nouns/natur.md) + [-ar](Dictionary/Adjectival%20Suffixes/-ar.md) is just a productive relational adjective modifying [history](Dictionary/Nouns/history.md), and the phrase means exactly what its parts mean.  With the hyphen it names a field of study, which no amount of inspecting *history* and *naturar* would tell you.
+Without the hyphen, (it means X), and the phrase means exactly what its parts mean.  With the hyphen it names (...), which no amount of inspecting (part 1) and (part 2) would tell you.
 
 #### Proper Names
 
 Names assembled out of a phrase are hyphenated the same way.
 
-- *[Musé-Coronar-ou-Ontarío](Wiki/Musé%20Coronar%20ou%20Ontarío.md)* — the Royal Ontario Museum, from *musé* + *coronar* + *ou* + *Ontarío*
+- *[Musé-Coronar-of-Ontarío](Musé%20Reyair%20of%20Ontarío.md)* — the Royal Ontario Museum, from *musé* + *coronar* + *of* + *Ontarío*
 
-The hyphens run across the preposition *ou* as well.  Everything inside the name is bound into one unit, however many words it started as.
+The hyphens run across the preposition *of* as well.  Everything inside the name is bound into one unit, however many words it started as.
 
 #### Declension
 
@@ -33,3 +32,18 @@ A hyphenated compound declines as its head noun does.  The head is the element t
 Because its meaning is not predictable from its parts, a hyphenated compound gets its own dictionary entry, filed under the part of speech of the whole and named with the hyphens intact (`history-naturar.md`).
 
 This is the opposite of a productive derivation.  *naturar* needs no entry of its own — the rules in [-ar](Dictionary/Adjectival%20Suffixes/-ar.md) generate it on demand — but *history-naturar* must be recorded, because nothing generates it.
+
+
+## Syntax
+
+### Noun Phrase Syntactic Structure
+
+Options
+- `Partitive` (`Determiner` `Quantifier` `Identifier` `Noun` `Adjunct` `Adjectives`)
+
+
+### Adjunct Nouns
+
+The language supports adjunct nouns.  In this case, the adjunct noun is placed just after the head noun, and is always plural.
+
+e.g. card baņces, history natures

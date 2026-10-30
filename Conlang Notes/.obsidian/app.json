@@ -1,6 +1,6 @@
 {
   "livePreview": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "spellcheck": false,
   "pdfExportSettings": {
     "includeName": true,

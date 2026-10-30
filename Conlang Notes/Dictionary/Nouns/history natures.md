@@ -9,4 +9,4 @@ Definitions
 	- study of all natural phenomena
 
 Etymology
-- [history](history.md) + [natur](natur.md) + [-ar](../Adjectival%20Suffixes/-ar.md)
+- [history](history.md) + [natur](natur.md)

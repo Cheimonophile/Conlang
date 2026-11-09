@@ -14,7 +14,7 @@ Irregular Forms
 - Past: fou, fùno
 - Future: fùre, fùro, fùren
 - Present Participle: fuient
-- Past Participle: fuv
+- Past Participle: fum
 
 Examples
 - fùt attrahient = it attracts

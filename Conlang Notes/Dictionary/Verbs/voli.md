@@ -18,6 +18,7 @@ Irregular Forms
 - Past: vouz, volua
 - Future: vósse...
 - Subjunctive: voles...
+- Past Participle: volu
 
 Inspiration
 - [volō](https://en.wiktionary.org/wiki/volo#Latin "volo") (Latin)

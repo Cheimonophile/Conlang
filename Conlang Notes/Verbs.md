@@ -112,7 +112,7 @@ Regular, most common conjugation class.
 
 **Infinitive**: leir (to read)
 **Present Participle**: leiyent
-**Past Participle**: leiv
+**Past Participle**: leim
 **Imperative**: leì
 
 ##### Indicative

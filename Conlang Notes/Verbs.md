@@ -151,7 +151,7 @@ TODO
 
 ### Periphrastic Tenses
 
-Periphrastic tenses are formed with an auxiliary verb followed by the present participle of the main verb.  The auxiliary carries the tense and gender marking.
+Periphrastic tenses are formed with an auxiliary verb followed by a participle of the main verb.  The auxiliary carries the tense and gender marking.
 
 #### Progressive
 
@@ -164,3 +164,9 @@ e.g. art attrahient (it is attracting)
 The habitual tenses convey that an action occurs habitually.  They are formed with [fui](Dictionary/Verbs/fui.md) + present participle.
 
 e.g. fùt attrahient (it attracts)
+
+#### Perfect
+
+The perfect tenses convey that an action has been completed, with its result still relevant.  They are formed with hair + past participle.  As a verb, *hair* is used only as this auxiliary, and doesn't express possession.  It conjugates as a regular soft athematic verb, like [leir](Dictionary/Verbs/leir.md).
+
+e.g. hait attrahu (it has attracted)

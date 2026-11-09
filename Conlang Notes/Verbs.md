@@ -35,7 +35,7 @@ The tense marker indicates the tense of the verb, whether past, present, or futu
 
 | Present | Past    | Future |
 | ------- | ------- | ------ |
-| t       | u,v,z,o | ss,r   |
+| t       | u,v,z,o | ss,r,s |
 
 The present and past tense markers are athematic for the purposes of adding the gender markers.  Future markers are thematic.
 
@@ -57,13 +57,14 @@ These markers interact highly with the tense markers.  In the case of the presen
 | *Past*                          | Singular | Plural |
 | ------------------------------- | -------- | ------ |
 | **After Super-Soft Syllable**   | u        | un     |
-| **After Regular-Soft Syllable** | z        | va     |
+| **After Regular-Soft Syllable** | z        | no     |
 | **After Hard Syllable**         | o        | ua     |
 
-| *Future*                | Animate | Inanimate | Plural |
-| ----------------------- | ------- | --------- | ------ |
-| **After Soft Syllable** | sse     | sso       | ssen   |
-| **After Hard Syllable** | re      | ro        | ren    |
+| *Future*                        | Animate | Inanimate | Plural |
+| ------------------------------- | ------- | --------- | ------ |
+| **After Super-Soft Syllable**   | sse     | sso       | ssen   |
+| **After Regular-Soft Syllable** | re      | ro        | ren    |
+| **After Hard Syllable**         | se      | so        | sen    |
 
 ### Conjugation
 
@@ -89,6 +90,7 @@ Regular, most common conjugation class.
 | **Present** | guvernes   | guvernet   | guvernent   |
 | **Past**    | guvernou   | guvernou   | guvernoun   |
 | **Future**  | guvernasse | guvernasso | guvernassen |
+
 #### Hard Athematic ([coti](Dictionary/Verbs/coti.md))
 
 ##### Non-Finite Forms
@@ -104,7 +106,7 @@ Regular, most common conjugation class.
 | ----------- | ------- | --------- | ------ |
 | **Present** | cots    | cott      | cotta  |
 | **Past**    | coto    | coto      | cotua  |
-| **Future**  | cotre   | cotro     | cotren |
+| **Future**  | cotse   | cotso     | cotsen |
 
 #### Soft Athematic ([leir](Dictionary/Verbs/leir.md))
 
@@ -122,6 +124,7 @@ Regular, most common conjugation class.
 | **Present** | leis    | leit      | leint  |
 | **Past**    | leiz    | leiz      | leino  |
 | **Future**  | leire   | leiro     | leiren |
+
 #### Consonant Soft Athematic
 
 Used for a small number of "irregular" verbs that have a stem with a consonant coda, but follow the soft athematic conjugation.  In certain forms, the consonants are removed and replaced with acute accent over the preceding vowel to make room for the ending.

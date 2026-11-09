@@ -83,3 +83,20 @@ Examples
 | 8   | -      | -       | -      | -     | -     | -       | -     | -     | -       | -       | -      | -       | -     | -      | -     | -      | -      | -        | -      | -    | -   | -        | -      | -       | -       | -        |
 | 9   | -      | -       | -      | -     | -     | -       | -     | -     | -       | -       | -      | domn    | -     | -      | -     | nōmn   | -      | -        | -      | -    | -   | -        | vetl   | vird    | fāvl    | fēnucl   |
 | 10  | -      | -       | -      | -     | -     | -       | -     | -     | acwil   | -       | -      | -       | -     | -      | -     | -      | -      | -        | -      | -    | -   | vyātōr   | -      | -       | -       | -        |
+
+
+# Latin
+
+This strategy is for educated borrowings: words taken directly from written latin, rather than wanderworts that spread through the romance languages.  These words didn't evolve naturally, so the sound changes in the romance strategy don't apply to them.  Only verbs are covered so far.
+
+Steps
+1. Start with the latin word.  Stress starts on the syllable where it exists in latin.
+2. Pick a base morphological form of the word.
+	- Verbs: first person singular active indicative
+		- first person singular passive indicative for deponent verbs
+3. Remove the ending and derive a stem.
+	- Verbs: remove the *-ō* for regular verbs and *-or* for deponent verbs
+		- attrahō > attrah
+4. In a latin verb of three or more syllables, a short second-to-last syllable puts the stress on the third-to-last syllable.  These verbs are borrowed into the [athematic](Verbs.md#Conjugation) conjugation, hard or soft depending on how the stem ends.
+	- attrahō (*át-tra-hō*) > [attrahi](Dictionary/Verbs/attrahi.md), hard athematic
+5. For all verbs, stress moves to the final syllable.

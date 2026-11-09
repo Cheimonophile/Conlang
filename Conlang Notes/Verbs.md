@@ -47,6 +47,7 @@ The gender markers are the standard gender agreement markers.
 | ------------- | ------- | --------- | ------ |
 | **Thematic**  | e       | o         | en     |
 | **Athematic** | -       | -         | a      |
+
 These markers interact highly with the tense markers.  In the case of the present tense marker, this includes turning *t* into *s* for animate gender, and turning *ta* into *nt* when placed after soft syllables (thematic and soft-athematic conjugation indicative forms, all subjunctive forms).  The tables below show the interactions.
 
 | *Present*               | Animate | Inanimate | Plural |

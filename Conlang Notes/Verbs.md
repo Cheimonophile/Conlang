@@ -145,3 +145,22 @@ TODO
 | **Present** | guvernaus  | guvernaut  | guvernaunt  |
 | **Past**    | guvernauz  | guvernauz  | guvernalua  |
 | **Future**  | guvernaure | guvernauro | guvernauren |
+
+
+## Syntax
+
+### Periphrastic Tenses
+
+Periphrastic tenses are formed with an auxiliary verb followed by the present participle of the main verb.  The auxiliary carries the tense and gender marking.
+
+#### Progressive
+
+The progressive tenses convey that an action is ongoing.  They are formed with [ár](Dictionary/Verbs/ár.md) + present participle.
+
+e.g. art attrahient (it is attracting)
+
+#### Habitual
+
+The habitual tenses convey that an action occurs habitually.  They are formed with [fui](Dictionary/Verbs/fui.md) + present participle.
+
+e.g. fùt attrahient (it attracts)

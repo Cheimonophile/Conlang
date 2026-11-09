@@ -19,9 +19,9 @@ Without the hyphen, (it means X), and the phrase means exactly what its parts me
 
 Names assembled out of a phrase are hyphenated the same way.
 
-- *[Musé-Reyair-of-Ontarío](Musé%20Reyair%20of%20Ontarío.md)* — the Royal Ontario Museum, from *musé* + *reyair* + *of* + *Ontarío*
+- *[Musé-Reyair-ou-Ontarío](Wiki/Musé%20Reyair%20ou%20Ontarío.md)* — the Royal Ontario Museum, from *musé* + *reyair* + *ou* + *Ontarío*
 
-The hyphens run across the preposition *of* as well.  Everything inside the name is bound into one unit, however many words it started as.
+The hyphens run across the preposition *ou* as well.  Everything inside the name is bound into one unit, however many words it started as.
 
 #### Declension
 

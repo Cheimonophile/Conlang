@@ -53,10 +53,25 @@ separated by a blank line, each followed by a bulleted list. Use these names:
   	- fornir (Catalan)
   	- fornire (Italian)
   ```
+- **Inspirations** — used in place of Etymology for a word coined freely from
+  one or more source words rather than derived through
+  `Conlang Notes/Borrowing Words.md`. List the words that shaped it, formatted
+  the same way as Etymology: plain text with the language in parentheses, and a
+  family in parentheses with tab-indented sub-bullets when several words from
+  one family contributed:
+
+  ```markdown
+  Inspirations
+  - (Romance)
+  	- tierra (Spanish)
+  	- terre (French)
+  - dirt (English)
+  ```
 - **Properties**, **Usage**, **Syncretism**, **Examples**, **Notes** — as
   applicable.
 
-Every non-stub entry should have both a Definitions and an Etymology section.
+Every non-stub entry should have a Definitions section and either an Etymology
+or an Inspirations section.
 
 Full example:
 
@@ -87,6 +102,12 @@ Etymology section.
 Do not silently deviate from those steps. If a word intentionally departs from
 them, say so in its Etymology section rather than leaving the deviation
 unexplained.
+
+A word can also be coined freely, blending source words into a form chosen
+directly rather than produced by the steps — `dár` "dirt", from Romance
+`tierra`/`terre` and English `dirt`. Such a word gets an Inspirations section
+listing its sources instead of an Etymology section. The section name already
+marks it as not derived, so it needs no separate deviation note.
 
 ## Don't create entries for productive derivations
 

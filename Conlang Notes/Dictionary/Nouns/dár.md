@@ -13,3 +13,6 @@ Inspirations
 	- tierra (Spanish)
 	- terre (French)
 - dirt (English)
+
+Related
+- [gazon](gazon.md)

@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "description": "Conlang translation",
+    "min_format": 75,
+    "max_format": 75
+  },
+  "language": {
+    "qcl_aa": {
+      "name": "Conlang",
+      "region": "Constructed",
+      "bidirectional": false
+    }
+  }
+}

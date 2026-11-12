@@ -11,7 +11,6 @@ Definitions
 
 Etymology
 - gazon (French)
-	- borrowed directly from French without the Romance strategy's steps, since French gazon descends from Frankish *wasō "sod, turf" and has no Latin etymon
 
 Related
 - [dár](dár.md)

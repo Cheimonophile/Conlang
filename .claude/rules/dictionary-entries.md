@@ -73,6 +73,12 @@ separated by a blank line, each followed by a bulleted list. Use these names:
 Every non-stub entry should have a Definitions section and either an Etymology
 or an Inspirations section.
 
+Etymology and Inspirations list sources and nothing else. Their sub-bullets are
+only for the individual words of a family. Don't add sub-bullets that explain or
+justify the etymology, such as why the steps weren't applied or where a source
+word itself came from, unless the user asks for that note. Explain those choices
+in the reply to the user, not in the entry.
+
 Full example:
 
 ```markdown
@@ -99,15 +105,15 @@ indicative — and applying its numbered steps in order. Work the derivation
 through explicitly before creating the file, and record the etymon in the
 Etymology section.
 
-Do not silently deviate from those steps. If a word intentionally departs from
-them, say so in its Etymology section rather than leaving the deviation
-unexplained.
+A word can also be borrowed directly, taking the source-language form unchanged
+instead of running it through the steps. `gazon` "turf" is French `gazon`. Its
+source still goes in the Etymology section.
 
-A word can also be coined freely, blending source words into a form chosen
-directly rather than produced by the steps — `dár` "dirt", from Romance
-`tierra`/`terre` and English `dirt`. Such a word gets an Inspirations section
-listing its sources instead of an Etymology section. The section name already
-marks it as not derived, so it needs no separate deviation note.
+A word can also be coined freely, with a form chosen directly from one or more
+source words instead of produced by the steps. `dár` "dirt" blends Romance
+`tierra`/`terre` with English `dirt`, and `tas` "die" comes from Persian `tās`.
+Such a word gets an Inspirations section listing its sources instead of an
+Etymology section. The section name already marks it as not derived.
 
 ## Don't create entries for productive derivations
 

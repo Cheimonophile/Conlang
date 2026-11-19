@@ -16,4 +16,4 @@ Etymology
 - [-air](../Adjectival%20Suffixes/-air.md)
 
 Related
-- [adultra](adultra.md)
+- [grainz](grainz.md)

@@ -14,3 +14,6 @@ Etymology
 	- frontiera (Italian)
 	- fronteira (Portuguese)
 - [-air](../Adjectival%20Suffixes/-air.md)
+
+Related
+- [adultra](adultra.md)
